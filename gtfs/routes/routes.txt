@@ -1,0 +1,7 @@
+route_id, route_short_name, route_long_name, route_type
+R1, LoopO, Campus Loop Outer Route, 3
+R2, LoopIn, Campus Loop Inner Route, 3
+R3, InUC, Upper Campus Inner Route, 3
+R4, OutUC,Upper Campus Outer Route, 3
+R5, ENC, East Night Core Route, 3
+R6, WNC, West Night Core Route, 3

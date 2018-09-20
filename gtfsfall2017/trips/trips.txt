@@ -1,0 +1,1011 @@
+route_id, service_id, trip_id, shape_id, trip_headsign
+R1, 2017FallWDMonThur, T1_1, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_2, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_3, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_4, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_5, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_6, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_7, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_8, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_9, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_10, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_11, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_12, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_13, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_14, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_15, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_16, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_17, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_18, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_19, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_20, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_21, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_22, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_23, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_24, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_25, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_26, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_27, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_28, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_29, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_30, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_31, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_32, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_33, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_34, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_35, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_36, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_37, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_38, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_39, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_40, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_41, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_42, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_43, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_44, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_45, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_46, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_47, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_48, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_49, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_50, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_51, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_52, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_53, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_54, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_55, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_56, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_57, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_58, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_59, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_60, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_61, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_62, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_63, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_64, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_65, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_66, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_67, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_68, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_69, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_70, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_71, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_72, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_73, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_74, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_75, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_76, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_77, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_78, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_79, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_80, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_81, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_82, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_83, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_84, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_85, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_86, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_87, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_88, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_89, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_90, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_91, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_92, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T1_93, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_94, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_95, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_96, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_97, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_98, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_99, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_100, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_101, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_102, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_103, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_104, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_105, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_106, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_107, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_108, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_109, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_110, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_111, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_112, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_113, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_114, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_115, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_116, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_117, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_118, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_119, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_120, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_121, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_122, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_123, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_124, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_125, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_126, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_127, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_128, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_129, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_130, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_131, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_132, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_133, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_134, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_135, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_136, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_137, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_138, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_139, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_140, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_141, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_142, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_143, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_144, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_145, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_146, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_147, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_148, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_149, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_150, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_151, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_152, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_153, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_154, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_155, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_156, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_157, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_158, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_159, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_160, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_161, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_162, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_163, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_164, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_165, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_166, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_167, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_168, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_169, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_170, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_171, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_172, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_173, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_174, LoopOshape, CounterClockwise
+R1, 2017FallWDFriday, T1_175, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_176, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_177, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_178, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_179, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_180, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_181, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_182, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_183, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_184, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_185, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_186, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_187, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_188, LoopOshape, CounterClockwise
+R1, 2017FallWESat, T1_189, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_190, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_191, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_192, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_193, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_194, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_195, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_196, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_197, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_198, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_199, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_200, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_201, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_202, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_203, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_204, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_205, LoopOshape, CounterClockwise
+R1, 2017FallWESun, T1_206, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_207, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_208, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_209, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_210, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_211, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_212, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_213, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_214, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_215, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_216, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_217, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_218, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_219, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_220, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_221, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_222, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_223, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_224, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_225, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_226, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_227, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_228, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_229, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_230, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_231, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_232, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_233, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_234, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_235, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_236, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_237, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_238, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_239, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_240, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_241, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_242, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_243, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_244, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_245, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_246, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_247, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_248, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_249, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_250, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_251, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_252, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_253, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_254, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_255, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_256, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_257, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_258, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_259, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_260, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_261, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_262, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_263, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_264, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_265, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_266, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_267, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_268, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_269, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_270, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_271, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_272, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_273, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_274, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_275, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_276, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_277, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_278, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_279, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_280, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_281, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_282, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_283, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_284, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_285, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_286, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_287, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_288, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_289, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_290, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_291, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_292, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_293, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_294, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_295, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_296, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_297, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_298, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_299, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_300, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_301, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_302, LoopOshape, CounterClockwise
+R1, 2017FallFinalsWD, T1_303, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_304, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_305, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_306, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_307, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_308, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_309, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_310, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_311, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_312, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_313, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_314, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_315, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_316, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_317, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_318, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_319, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_320, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_321, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_322, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_323, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_324, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_325, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_326, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_327, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_328, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_329, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_330, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_331, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_332, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_333, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_334, LoopOshape, CounterClockwise
+R1, 2017FallISWD, T1_335, LoopOshape, CounterClockwise
+R1, 2017FallWDMonThur, T2_1, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_2, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_3, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_4, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_5, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_6, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_7, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_8, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_9, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_10, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_11, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_12, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_13, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_14, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_15, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_16, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_17, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_18, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_19, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_20, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_21, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_22, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_23, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_24, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_25, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_26, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_27, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_28, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_29, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_30, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_31, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_32, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_33, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_34, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_35, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_36, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_37, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_38, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_39, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_40, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_41, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_42, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_43, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_44, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_45, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_46, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_47, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_48, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_49, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_50, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_51, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_52, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_53, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_54, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_55, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_56, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_57, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_58, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_59, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_60, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_61, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_62, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_63, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_64, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_65, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_66, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_67, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_68, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_69, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_70, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_71, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_72, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_73, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_74, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_75, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_76, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_77, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_78, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_79, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_80, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_81, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_82, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_83, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_84, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_85, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_86, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_87, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_88, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_89, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_90, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_91, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_92, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_93, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_94, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_95, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_96, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_97, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_98, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_99, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_100, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_101, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_102, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_103, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_104, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_105, Loopinshape, Clockwise
+R1, 2017FallWDMonThur, T2_106, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_107, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_108, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_109, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_110, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_111, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_112, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_113, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_114, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_115, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_116, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_117, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_118, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_119, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_120, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_121, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_122, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_123, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_124, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_125, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_126, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_127, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_128, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_129, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_130, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_131, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_132, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_133, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_134, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_135, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_136, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_137, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_138, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_139, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_140, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_141, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_142, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_143, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_144, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_145, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_146, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_147, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_148, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_149, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_150, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_151, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_152, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_153, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_154, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_155, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_156, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_157, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_158, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_159, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_160, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_161, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_162, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_163, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_164, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_165, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_166, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_167, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_168, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_169, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_170, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_171, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_172, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_173, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_174, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_175, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_176, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_177, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_178, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_179, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_180, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_181, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_182, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_183, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_184, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_185, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_186, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_187, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_188, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_189, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_190, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_191, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_192, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_193, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_194, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_195, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_196, Loopinshape, Clockwise
+R1, 2017FallWDFriday, T2_197, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_198, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_199, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_200, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_201, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_202, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_203, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_204, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_205, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_206, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_207, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_208, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_209, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_210, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_211, Loopinshape, Clockwise
+R1, 2017FallWESat, T2_212, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_213, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_214, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_215, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_216, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_217, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_218, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_219, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_220, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_221, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_222, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_223, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_224, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_225, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_226, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_227, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_228, Loopinshape, Clockwise
+R1, 2017FallWESun, T2_229, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_230, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_231, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_232, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_233, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_234, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_235, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_236, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_237, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_238, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_239, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_240, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_241, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_242, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_243, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_244, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_245, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_246, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_247, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_248, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_249, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_250, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_251, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_252, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_253, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_254, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_255, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_256, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_257, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_258, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_259, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_260, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_261, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_262, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_263, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_264, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_265, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_266, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_267, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_268, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_269, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_270, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_271, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_272, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_273, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_274, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_275, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_276, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_277, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_278, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_279, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_280, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_281, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_282, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_283, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_284, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_285, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_286, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_287, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_288, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_289, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_290, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_291, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_292, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_293, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_294, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_295, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_296, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_297, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_298, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_299, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_300, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_301, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_302, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_303, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_304, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_305, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_306, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_307, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_308, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_309, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_310, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_311, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_312, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_313, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_314, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_315, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_316, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_317, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_318, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_319, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_320, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_321, Loopinshape, Clockwise
+R1, 2017FallFinalsWD, T2_322, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_323, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_324, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_325, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_326, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_327, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_328, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_329, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_330, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_331, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_332, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_333, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_334, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_335, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_336, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_337, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_338, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_339, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_340, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_341, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_342, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_343, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_344, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_345, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_346, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_347, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_348, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_349, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_350, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_351, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_352, Loopinshape, Clockwise
+R1, 2017FallISWD, T2_353, Loopinshape, Clockwise
+R2, 2017FallWDMonThur, T3_1, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_2, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_3, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_4, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_5, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_6, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_7, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_8, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_9, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_10, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_11, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_12, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_13, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_14, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_15, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_16, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_17, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_18, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_19, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_20, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_21, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_22, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_23, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_24, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_25, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_26, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_27, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_28, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_29, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_30, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_31, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_32, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_33, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_34, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_35, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_36, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_37, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_38, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_39, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_40, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_41, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_42, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_43, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_44, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_45, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_46, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T3_47, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_48, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_49, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_50, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_51, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_52, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_53, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_54, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_55, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_56, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_57, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_58, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_59, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_60, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_61, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_62, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_63, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_64, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_65, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_66, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_67, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_68, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_69, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_70, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_71, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_72, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_73, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_74, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_75, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_76, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_77, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_78, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_79, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_80, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_81, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_82, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_83, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_84, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_85, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_86, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_87, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_88, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_89, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_90, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_91, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_92, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_93, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_94, Inucshape, Clockwise
+R2, 2017FallWDFriday, T3_95, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_96, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_97, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_98, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_99, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_100, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_101, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_102, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_103, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_104, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_105, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_106, Inucshape, Clockwise
+R2, 2017FallFinalsWD, T3_107, Inucshape, Clockwise
+R2, 2017FallWDMonThur, T4_1, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_2, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_3, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_4, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_5, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_6, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_7, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_8, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_9, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_10, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_11, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_12, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_13, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_14, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_15, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_16, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_17, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_18, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_19, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_20, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_21, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_22, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_23, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_24, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_25, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_26, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_27, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_28, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_29, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_30, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_31, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_32, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_33, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_34, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_35, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_36, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_37, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_38, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_39, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_40, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_41, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_42, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_43, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_44, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_45, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_46, Outucshape, CounterClockwise
+R2, 2017FallWDMonThur, T4_47, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_48, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_49, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_50, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_51, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_52, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_53, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_54, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_55, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_56, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_57, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_58, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_59, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_60, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_61, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_62, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_63, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_64, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_65, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_66, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_67, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_68, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_69, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_70, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_71, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_72, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_73, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_74, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_75, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_76, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_77, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_78, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_79, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_80, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_81, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_82, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_83, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_84, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_85, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_86, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_87, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_88, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_89, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_90, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_91, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_92, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_93, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_94, Outucshape, CounterClockwise
+R2, 2017FallWDFriday, T4_95, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_96, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_97, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_98, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_99, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_100, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_101, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_102, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_103, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_104, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_105, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_106, Outucshape, CounterClockwise
+R2, 2017FallFinalsWD, T4_107, Outucshape, CounterClockwise
+R3, 2017FallWDMonThur, T5_1, Encshape,  
+R3, 2017FallWDMonThur, T5_2, Encshape,  
+R3, 2017FallWDMonThur, T5_3, Encshape,  
+R3, 2017FallWDMonThur, T5_4, Encshape,  
+R3, 2017FallWDMonThur, T5_5, Encshape,  
+R3, 2017FallWDMonThur, T5_6, Encshape,  
+R3, 2017FallWDMonThur, T5_7, Encshape,  
+R3, 2017FallWDMonThur, T5_8, Encshape,  
+R3, 2017FallWDMonThur, T5_9, Encshape,  
+R3, 2017FallWDMonThur, T5_10, Encshape,  
+R3, 2017FallWDMonThur, T5_11, Encshape,  
+R3, 2017FallWDFriday, T5_12, Encshape,  
+R3, 2017FallWDFriday, T5_13, Encshape,  
+R3, 2017FallWDFriday, T5_14, Encshape,  
+R3, 2017FallWDFriday, T5_15, Encshape,  
+R3, 2017FallWDFriday, T5_16, Encshape,  
+R3, 2017FallWDFriday, T5_17, Encshape,  
+R3, 2017FallWDFriday, T5_18, Encshape,  
+R3, 2017FallWDFriday, T5_19, Encshape,  
+R3, 2017FallWDFriday, T5_20, Encshape,  
+R3, 2017FallWDFriday, T5_21, Encshape,  
+R3, 2017FallWDFriday, T5_22, Encshape,  
+R3, 2017FallWESat, T5_23, Encshape,  
+R3, 2017FallWESat, T5_24, Encshape,  
+R3, 2017FallWESat, T5_25, Encshape,  
+R3, 2017FallWESat, T5_26, Encshape,  
+R3, 2017FallWESat, T5_27, Encshape,  
+R3, 2017FallWESat, T5_28, Encshape,  
+R3, 2017FallWESat, T5_29, Encshape,  
+R3, 2017FallWESat, T5_30, Encshape,  
+R3, 2017FallWESat, T5_31, Encshape,  
+R3, 2017FallWESat, T5_32, Encshape,  
+R3, 2017FallWESat, T5_33, Encshape,  
+R3, 2017FallWESat, T5_34, Encshape,  
+R3, 2017FallWESun, T5_35, Encshape,  
+R3, 2017FallWESun, T5_36, Encshape,  
+R3, 2017FallWESun, T5_37, Encshape,  
+R3, 2017FallWESun, T5_38, Encshape,  
+R3, 2017FallWESun, T5_39, Encshape,  
+R3, 2017FallWESun, T5_40, Encshape,  
+R3, 2017FallWESun, T5_41, Encshape,  
+R3, 2017FallWESun, T5_42, Encshape,  
+R3, 2017FallWESun, T5_43, Encshape,  
+R3, 2017FallWESun, T5_44, Encshape,  
+R3, 2017FallWESun, T5_45, Encshape,  
+R3, 2017FallWESun, T5_46, Encshape,  
+R3, 2017FallFinalsWD, T5_47, Encshape,  
+R3, 2017FallFinalsWD, T5_48, Encshape,  
+R3, 2017FallFinalsWD, T5_49, Encshape,  
+R3, 2017FallFinalsWD, T5_50, Encshape,  
+R3, 2017FallFinalsWD, T5_51, Encshape,  
+R3, 2017FallFinalsWD, T5_52, Encshape,  
+R3, 2017FallFinalsWD, T5_53, Encshape,  
+R3, 2017FallFinalsWD, T5_54, Encshape,  
+R4, 2017FallWDMonThur, T6_1, Wncshape,  
+R4, 2017FallWDMonThur, T6_2, Wncshape,  
+R4, 2017FallWDMonThur, T6_3, Wncshape,  
+R4, 2017FallWDMonThur, T6_4, Wncshape,  
+R4, 2017FallWDMonThur, T6_5, Wncshape,  
+R4, 2017FallWDMonThur, T6_6, Wncshape,  
+R4, 2017FallWDMonThur, T6_7, Wncshape,  
+R4, 2017FallWDMonThur, T6_8, Wncshape,  
+R4, 2017FallWDMonThur, T6_9, Wncshape,  
+R4, 2017FallWDMonThur, T6_10, Wncshape,  
+R4, 2017FallWDMonThur, T6_11, Wncshape,  
+R4, 2017FallWDFriday, T6_12, Wncshape,  
+R4, 2017FallWDFriday, T6_13, Wncshape,  
+R4, 2017FallWDFriday, T6_14, Wncshape,  
+R4, 2017FallWDFriday, T6_15, Wncshape,  
+R4, 2017FallWDFriday, T6_16, Wncshape,  
+R4, 2017FallWDFriday, T6_17, Wncshape,  
+R4, 2017FallWDFriday, T6_18, Wncshape,  
+R4, 2017FallWDFriday, T6_19, Wncshape,  
+R4, 2017FallWDFriday, T6_20, Wncshape,  
+R4, 2017FallWDFriday, T6_21, Wncshape,  
+R4, 2017FallWDFriday, T6_22, Wncshape,  
+R4, 2017FallWESat, T6_23, Wncshape,  
+R4, 2017FallWESat, T6_24, Wncshape,  
+R4, 2017FallWESat, T6_25, Wncshape,  
+R4, 2017FallWESat, T6_26, Wncshape,  
+R4, 2017FallWESat, T6_27, Wncshape,  
+R4, 2017FallWESat, T6_28, Wncshape,  
+R4, 2017FallWESat, T6_29, Wncshape,  
+R4, 2017FallWESat, T6_30, Wncshape,  
+R4, 2017FallWESat, T6_31, Wncshape,  
+R4, 2017FallWESat, T6_32, Wncshape,  
+R4, 2017FallWESat, T6_33, Wncshape,  
+R4, 2017FallWESat, T6_34, Wncshape,  
+R4, 2017FallWESun, T6_35, Wncshape,  
+R4, 2017FallWESun, T6_36, Wncshape,  
+R4, 2017FallWESun, T6_37, Wncshape,  
+R4, 2017FallWESun, T6_38, Wncshape,  
+R4, 2017FallWESun, T6_39, Wncshape,  
+R4, 2017FallWESun, T6_40, Wncshape,  
+R4, 2017FallWESun, T6_41, Wncshape,  
+R4, 2017FallWESun, T6_42, Wncshape,  
+R4, 2017FallWESun, T6_43, Wncshape,  
+R4, 2017FallWESun, T6_44, Wncshape,  
+R4, 2017FallWESun, T6_45, Wncshape,  
+R4, 2017FallWESun, T6_46, Wncshape,  
+R4, 2017FallFinalsWD, T6_47, Wncshape,  
+R4, 2017FallFinalsWD, T6_48, Wncshape,  
+R4, 2017FallFinalsWD, T6_49, Wncshape,  
+R4, 2017FallFinalsWD, T6_50, Wncshape,  
+R4, 2017FallFinalsWD, T6_51, Wncshape,  
+R4, 2017FallFinalsWD, T6_52, Wncshape,  
+R4, 2017FallFinalsWD, T6_53, Wncshape,  
+R4, 2017FallFinalsWD, T6_54, Wncshape,  

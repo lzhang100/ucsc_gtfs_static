@@ -1,0 +1,5 @@
+route_id, route_short_name, route_long_name, route_type
+R1, Loop, Campus Loop Route, 3
+R2, UC, UpperCampus, 3
+R3, ENC, East Night Core, 3
+R4, WNC, West Night Core, 3
