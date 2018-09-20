@@ -4,28 +4,6 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-This is the respository to create GTFS files for Spring2017 quarter
+This is the respository to create GTFS feed for Spring2017 quarter. The feed comprises of information on UCSC Transporation Department Agency, calendar for the spring quarter, calendardates for exceptions like holidays, the campus bus routes, the road shape a campus bus route takes, the stops for each bus route, stop times for each trip of a bus route, and all the trips that run for the day. 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Once the feed is combined together, we can use the feedvalidator.py to check for syntax errors in the feed and we can use scheduleviewver.py to preview our feed before sending it off to Google to be proccessed in the Google Maps application.
